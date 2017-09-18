@@ -1,0 +1,19 @@
+.form-error {
+    padding: 5px;
+
+    /* border-radius: 10px; */
+    margin-bottom: 10px;
+}
+
+.submission-item {
+    margin-bottom: 10px;
+}
+
+.submission-item .submission-label {
+    font-weight: bolder;
+    font-size: 1.25em;
+}
+
+.submission-approval {
+    margin: 24px auto;
+}
