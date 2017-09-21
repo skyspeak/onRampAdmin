@@ -1,7 +1,7 @@
 <?php
 require APPPATH . 'libraries/sendgrid-php/sendgrid-php.php';
-define('SENDGRIDAPI','');
-define('SENDER','');
+define('SENDGRIDAPI','SENDGRID_API_KEY');
+define('SENDER','SENDER_EMAIL');
 
 class  Admin extends CI_Controller{
 
